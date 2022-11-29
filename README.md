@@ -5,7 +5,7 @@
     &nbsp;&nbsp;&nbsp;
   <a href="./preview/1-Glossario.png">1 - Glossário</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/2-Formularios-de-Contato.png">2 - Formulários de Contato</a>
+  <a href="./preview/2-Formulario-de-Contato.png">2 - Formulário de Contato</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="./preview/3-Lista-de-Compras.png">3 - Lista de Compras</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
