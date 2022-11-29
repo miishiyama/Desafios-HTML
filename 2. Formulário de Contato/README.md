@@ -1,4 +1,4 @@
-# Glossário
+# Formulário de Contato
 ![preview](./preview/Formulario-de-Contato.png)
 
 ## Projeto 💻
