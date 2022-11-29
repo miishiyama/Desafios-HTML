@@ -1,4 +1,4 @@
-# Glossário
+# Lista de Compras
 ![preview](./preview/Lista-de-Compras.png)
 
 ## Projeto 💻
