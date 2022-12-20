@@ -1,4 +1,4 @@
 # Desafios HTML
 
 ## 1. Glossário
-![preview](./preview/Glossario.png)
+![preview](./1-Glossario.png)
