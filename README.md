@@ -3,15 +3,15 @@
 <p align="center">
   Preview:
     &nbsp;&nbsp;&nbsp;
-  <a href="./Glossario">Glossário</a>
+  <a href="./1.Glossario">1 - Glossário</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./Formulario-de-Contato">Formulário de Contato</a>
+  <a href="./2.Formulario-de-Contato">2 - Formulário de Contato</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./Lista-de-Compras">Lista de Compras</a>
+  <a href="./3.Lista-de-Compras">3 - Lista de Compras</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./Quiz">Quiz</a>
+  <a href="./4.Quiz">4 - Quiz</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./Blog-Post">Blog Post</a>
+  <a href="./5.Blog-Post">5 - Blog Post</a>
 </p>
 
 ## Projeto 💻
