@@ -24,7 +24,6 @@ Siga esses passos para instalar o repositório na sua máquina:
 ## Tecnologias 🚀
 As tecnologias utilizadas neste projeto são:
 - HTML
-- CSS
 
 ## Créditos ❤️
 Feito por [Millene Eduarda Ishiyama](https://github.com/miishiyama/).
